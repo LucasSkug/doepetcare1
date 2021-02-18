@@ -1,0 +1,49 @@
+.button {
+  font-family: Helvetica, Arial, sans-serif;
+  background: #e71717;
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 5px;
+
+
+
+
+}
+
+header.container-fluid{
+  background-color: #009688;
+}
+
+div.col {
+margin-left: 2%;
+
+}
+.card.h-100{
+  width: 90%;
+
+}
+
+
+
+.card-img-top {
+  width: 50%;
+}
+
+.imgcachorro {
+  width: 80%;
+}
+
+.miaudois {
+  width: 100%;
+}
+
+.soscidadania {
+  width: 60%;
+  margin-left: 15%;
+}
+
+.amgbicho1 {
+  width: 80%;
+  margin-left: 11%;
+}
+
